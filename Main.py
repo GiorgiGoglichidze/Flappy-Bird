@@ -8,7 +8,7 @@ from Bird_score import Score
 def game():
 
     window = turtle.Screen()
-    window.bgcolor("white")
+    window.bgcolor("skyblue")
     window.title("Flappy Bird")
     window.setup(width=800,height=800)
     window.tracer(0, 0)
